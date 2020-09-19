@@ -9,7 +9,9 @@ By using volume rendering, data samples are projected onto the picture plane and
 The main idea with raycasting is, as the name suggests, a ray which is cast and equidistant points are sampled. In order to get a better resolution, the voxel value is obtained by using trilinear interpolation.
 
 
-![GitHub Logo](/images/logo.png)
+![orange volume](/images/image1.png)
+
+![mouse_brain volume](/images/image2.png)
 
 
 To get more information read the *report* in the repo.
