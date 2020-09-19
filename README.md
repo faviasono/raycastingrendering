@@ -8,14 +8,16 @@ Practically, we had to implement both **Maximum Intensity Projection(MIP)** and 
 By using volume rendering, data samples are projected onto the picture plane and this allows us to display more detailed images compared to geometric primitives approaches. 
 The main idea with raycasting is, as the name suggests, a ray which is cast and equidistant points are sampled. In order to get a better resolution, the voxel value is obtained by using trilinear interpolation.
 
-
-![orange volume](/images/image1.png)
-
-![mouse_brain volume](/images/image2.png)
-
-
 To get more information read the *report* in the repo.
 
 I must point out that all the code implemented by me and my colleague is in the **implementation.py** while the other *.py files have been made by the course organizers.
+
+
+
+![orange volume](/images/image1.png =150x)
+
+![mouse_brain volume](/images/image2.png =150x)
+
+
 
 
