@@ -14,9 +14,13 @@ I must point out that all the code implemented by me and my colleague is in the 
 
 
 
-![orange volume](/images/image1.png =150x)
+<img src="images/image1.png" alt="drawing" style="width:90px;"/>
 
-![mouse_brain volume](/images/image2.png =150x)
+<img src="images/image2.png" alt="drawing" style="width:90px;"/>
+
+
+
+
 
 
 
