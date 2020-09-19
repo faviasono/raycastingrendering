@@ -1,4 +1,4 @@
-# Visualization_Course
+# Visualization Course
 
 For this course we had to impleent a volume rendering using Raycasting.
 Practically, we had to implement both **Maximum Intensity Projection(MIP)+* and **Compositing raycasting** in order to visualize an orange dataset.
